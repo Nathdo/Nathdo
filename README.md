@@ -14,7 +14,7 @@
       <li>🚀 Passionate about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and building data-driven solutions.</li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 1; display: flex; justify-content: center;">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="250px"/>
   </div>
 </div>
@@ -27,7 +27,7 @@
   <a href="mailto:Douiebnathan1999@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="LINK_TO_YOUR_CV" target="_blank">
+  <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
   </a>
 </p>
