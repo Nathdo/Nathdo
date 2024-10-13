@@ -1,23 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nathan Douieb</h1>
 <h3 align="center">A Passionate Data Scientist and Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C49F.svg?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🔭 I’m currently studying <strong>Industrial Engineering with a Data Science Specialization</strong></li>
-      <li>🚀 Passionate about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and building data-driven solutions.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="250px"/>
-  </div>
-</div>
+<ul>
+  <li>🔭 I’m currently studying <strong>Industrial Engineering with a Data Science Specialization</strong></li>
+  <li>🚀 Passionate about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and building data-driven solutions.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
