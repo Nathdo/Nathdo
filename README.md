@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nathan Douieb</h1>
-<h3 align="center">A Passionate Data Scientist and Machine Learning Enthusiast</h3>
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
