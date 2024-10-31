@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p> I am a Data Analyst with a deep passion for Artificial Intelligence. I have hands-on experience in Machine Learning and a strong knowledge of Deep Learning, Computer Vision, and Statistics. Currently, I am pursuing a degree in Industrial Engineering with a specialization in Data Science.</p>
+<p> I am a Student Data Scientist with a deep passion for Artificial Intelligence. I have hands-on experience in Machine Learning and a strong knowledge of Deep Learning, Computer Vision and Statistics. Currently, I am pursuing a degree in Industrial Engineering with a specialization in Data Science & Information System.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
