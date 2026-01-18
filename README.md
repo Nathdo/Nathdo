@@ -12,7 +12,7 @@
   <a href="mailto:Douiebnathan1999@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1saCpmI8NZNBqDljpIEQzpMjW7KrFJXTX/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/drive/my-drive/MyResume.pdf" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
   </a>
 </p>
